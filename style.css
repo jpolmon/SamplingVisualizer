@@ -1,0 +1,10 @@
+#chart-area {
+    position: relative;
+    background: rgb(196, 195, 195);
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 800px;
+    height: 300px;
+    left: 50%;
+    transform: translateX(-50%);
+}
